@@ -5,7 +5,10 @@ Bot counts points to all members of server. You can get point by getting positiv
 **Tool what you need:**
 1. Need install sqlite3: **/npm install sqlite3**
 2. For database I used **DB browser for SQLite**
-
+  
+#### Starting:
+When started bot will make file with extension ".lb". This file can be opened using **DB browser for SQLite**. Need to open program and press **Open database** and open created file.
+  
 **Can use roles (Form better to worst):**
 
 - Googler
